@@ -1,0 +1,5 @@
+Room,Current Temperature,Action,Previous Action
+Living Room,18,Turn on heater,Turn on heater
+Bedroom,22,Turn off heater,Turn off heater
+Kitchen,20,Turn on heater,Turn on heater
+Bathroom,24,Turn off heater,Turn off heater
